@@ -113,7 +113,7 @@ void loop() {
     digitalWrite(LED,LOW);
     digitalWrite(BLED,HIGH);
   }
-  delay(1000);
+  delay(2000);
 }
 
  
